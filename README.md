@@ -1,8 +1,7 @@
 # ABWesbite
-Public Website for Anthony Baker
+Development of a public website for Anthony J.A. Baker
 
-A practice edit to make sure pushing/pulling works
-Dog.
+
 
 
 # Project Title
